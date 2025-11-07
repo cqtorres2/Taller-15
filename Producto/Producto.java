@@ -1,9 +1,7 @@
 package Producto;
 
 public class Producto {
-    public void Mostrar() {
-
-    };
+    void Mostrar(){};
 }
 
 class DatosProducto extends Producto {

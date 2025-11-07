@@ -27,5 +27,5 @@ class Main {
         Confirmar confirmar = new Confirmar("Si, no es admitido para el servicio", "No, se han respetado las normas");
         confirmar.mensaje();
     }
-    
+
 }
