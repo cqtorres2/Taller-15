@@ -4,8 +4,7 @@ public class Usuario {
     String autotenticacion;
     String validacion;
 
-    public void mensaje() {
-    }
+    public void mensaje() {}
 }
 
 class Confirmar extends Usuario {
